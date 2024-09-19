@@ -1,1 +1,3 @@
-# essay
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/230575
+.ve-header "John La Farge's *The Dawn*" https://iiif.harvardartmuseums.org/manifests/object/230575
+For my essay, I will discuss the painting The Dawn by the American artist John La Farge. It is a beautiful piece containing a woman-like figure wrapped in off-white cloth and a matching garment. with a mixed-color sky background. I want to discuss the artist’s use of oil on canvas and the eventual transcription into stained glass work. I will talk about the reason for the artist painting it and the allure of painting this piece when it was painted as it is dated 1899.
